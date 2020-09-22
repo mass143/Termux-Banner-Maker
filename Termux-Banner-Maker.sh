@@ -80,8 +80,8 @@ cat nickname.txt >> bash.bashrc
 
 echo ""
 
-figlet -f slant "$text"|lolcat
-cowsay -f eyes "$nickname"|lolcat
+figlet -f bold "$text"|lolcat
+cowsay -f Kiss "$nickname"|lolcat
 
 }
 
